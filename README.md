@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityakatre
-- 👀 I’m interested in ...
+- 👀 I’m interested in web dev
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me adityakatre007@gmail.com
 
 <!---
