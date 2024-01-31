@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityakatre
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me adityakatre007@gmail.com
 
