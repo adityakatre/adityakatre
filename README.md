@@ -3,7 +3,12 @@
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me adityakatre007@gmail.com
-![Snake animation](https://github.com/adityakatre/adityakatre/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+![snake animation](https://github.com/adityakatre/adityakatre/blob/output/github-contribution-grid-snake2.svg)
 
 
 
