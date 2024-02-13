@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me adityakatre007@gmail.com
+![Snake animation](https://github.com/adityakatre/adityakatre/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <!---
 adityakatre/adityakatre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
